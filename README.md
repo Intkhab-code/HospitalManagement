@@ -55,25 +55,3 @@ npm start
 
 ```
 
-# CONTRIBUTORS --
-
-👤 **MITHLESH KUMAR**
-
-- GitHub: [@Mithi-code](https://github.com/Mithi-code)
-- LinkedIn: [@mithicode](https://www.linkedin.com/in/mithicode/)
-- Twitter: [@LazyMithlesh](https://twitter.com/LazyMithlesh)
-
-👤 **Vaibhav Pawar**
-
-- GitHub: [@vaibhavpawarsdet](https://github.com/vaibhavpawarsdet)
-- LinkedIn: [@vaibhavpawarsdet](https://www.linkedin.com/in/vaibhavpawarsdet/)
-- Twitter: [@vaibhavpawar00](https://twitter.com/Vaibhavpawar00)
-
-👤 **ADITHYA A BINOY**
-
--GitHub: [adithyaabinoy](https://github.com/adithyaabinoy)
--LinkedIn: [Adithya A Binoy](linkedin.com/in/adithyaabinoy/)
-
-## 📝 License
-
-This project is [MIT](./LICENSE.md) licensed.
