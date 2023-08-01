@@ -1,0 +1,17 @@
+.List-container {
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px 0;
+}
+
+table {
+  width: 75vw;
+}
+
+td {
+  text-align: center;
+}
+

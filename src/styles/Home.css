@@ -1,0 +1,86 @@
+.home-container {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  gap: 2rem;
+}
+
+.home-info {
+  background-image: url("https://img.freepik.com/free-photo/young-handsome-physician-medical-robe-with-stethoscope_1303-17818.jpg?size=626&ext=jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  width: 100%;
+  border-radius: 10px;
+  color: #03045e;
+}
+.home-info h1 {
+  padding-top: 7%;
+  padding-left: 5%;
+  font-size: 3rem;
+  z-index: 999;
+  text-align: unset;
+}
+
+.home-info p {
+  padding-left: 5%;
+  margin-top: 25px;
+  font-size: 2rem;
+  width: 70%;
+  z-index: 999;
+}
+
+.booking {
+  width: 320px !important;
+  cursor: pointer;
+  background-color: #4361ee;
+  color: #fff;
+  padding: 12px;
+  border-radius: 20px;
+  text-align: center;
+  bottom: 15%;
+  right: 20px;
+  font-size: 1.3rem !important;
+  position: fixed;
+
+  > a {
+    color: #fff;
+    text-decoration: none;
+  }
+  &:hover {
+    padding-right: 14px;
+    padding-left: 8px;
+    scale: 1.1;
+  }
+
+  &:after {
+    content: "»";
+    position: absolute;
+    opacity: 0;
+    font-size: 30px;
+    top: 5px;
+    right: -20px;
+    transition: 0.5s;
+  }
+
+  &::before {
+    content: "»";
+    position: absolute;
+    opacity: 0;
+    font-size: 30px;
+    top: 5px;
+    left: -20px;
+    transition: 0.5s;
+  }
+
+  &:hover:after {
+    opacity: 1;
+    right: 10px;
+  }
+
+  &:hover::before {
+    opacity: 1;
+    left: 10px;
+  }
+}
