@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash
-git clone git@github.com:Mithi-code/HMS-FE.git
+
 
 cd HMS-FE
 ```
